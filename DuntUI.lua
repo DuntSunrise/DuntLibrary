@@ -17,7 +17,7 @@ local Themes = {
 		Track = Color3.fromRGB(215, 218, 227),
 		Stroke = Color3.fromRGB(232, 234, 241),
 		OnAccent = Color3.fromRGB(255, 255, 254),
-		Logo = "https://raw.githubusercontent.com/Delvase/PressureBypass/refs/heads/main/PressureAvatar.png",
+		Logo = "https://raw.githubusercontent.com/DuntSunrise/DuntLibrary/refs/heads/main/PressureAvatar.png",
 	},
 	Dark = {
 		Bg = Color3.fromRGB(22, 23, 28),
@@ -29,7 +29,7 @@ local Themes = {
 		Track = Color3.fromRGB(76, 78, 90),
 		Stroke = Color3.fromRGB(62, 64, 76),
 		OnAccent = Color3.fromRGB(24, 25, 30),
-		Logo = "https://raw.githubusercontent.com/Delvase/PressureBypass/refs/heads/main/PressureAvatarBlack.png",
+		Logo = "https://raw.githubusercontent.com/DuntSunrise/DuntLibrary/refs/heads/main/PressureAvatarBlack.png",
 		Gradients = {
 			Window = {Color3.fromRGB(52, 54, 64), Color3.fromRGB(20, 21, 26), 45},
 			Header = {Color3.fromRGB(58, 60, 71), Color3.fromRGB(36, 37, 45), 0},
@@ -50,7 +50,7 @@ local Themes = {
 		Track = Color3.fromRGB(196, 216, 234),
 		Stroke = Color3.fromRGB(212, 229, 244),
 		OnAccent = Color3.fromRGB(255, 255, 254),
-		Logo = "https://raw.githubusercontent.com/Delvase/PressureBypass/refs/heads/main/PressureAvatarBlue.png",
+		Logo = "https://raw.githubusercontent.com/DuntSunrise/DuntLibrary/refs/heads/main/PressureAvatarBlue.png",
 	},
 }
 local ThemeOrder = {"Orange", "Dark", "Sky"}
