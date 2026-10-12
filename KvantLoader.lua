@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local Lighting = game:GetService("Lighting")
 
-local SCRIPT_URL = ""
+local SCRIPT_URL = "https://raw.githubusercontent.com/DuntSunrise/KvantMod/refs/heads/main/KvantHorror.lua"
 
 local WHITE = Color3.new(1, 1, 1)
 local BLUE = Color3.fromRGB(80, 170, 255)
